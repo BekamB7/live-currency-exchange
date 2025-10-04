@@ -25,5 +25,5 @@ It fetches real-time rates from a public API and displays conversion results ins
 ## 🔧 Getting Started
 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/moneta.git
+git clone https://github.com/bekamb7/moneta.git
 cd moneta
