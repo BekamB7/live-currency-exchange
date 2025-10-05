@@ -103,11 +103,11 @@ body {
 select {
   width: 150px;
   height: 30px;
-  font-size: 20px;
+  font-size: 10px;
   font-weight: bolder;
   border: none;
   background-color: rgb(177, 177, 190);
-  color: #0b0a0c;
+  color: #19052c;
   border-radius: 4px;
 }
 input[type="text"] {

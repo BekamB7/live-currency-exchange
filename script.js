@@ -23,7 +23,7 @@ const result = document.getElementById("result");
 const regulation = document.getElementById("regulation");
 
 async function loadCurrencies() {
-  let res = await fetch("https://api.exchangerate-api.com/v4/latest/USD");
+  let res = await fetch("https://api.exchangerate-api.com/v4/latest/ETB");
   let data = await res.json();
 
   let currencies = Object.keys(data.rates);
